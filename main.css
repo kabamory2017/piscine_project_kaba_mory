@@ -1,0 +1,199 @@
+.head{
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head2{
+    background-color: rgb(237, 246, 237);
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+    border-radius: 0% 51% 49% 70%/70% 0% 0% 20%;
+    position: relative;
+    
+}
+nav{
+ justify-content: space-between;
+}
+nav>ul{
+    display: flex;
+   
+   
+}
+nav>ul>li{
+      
+     list-style: none;
+      margin-right: 20px;
+
+    
+}
+ 
+.logo{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+.logo3{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 170px;
+    top: 30px;
+}
+.logo4{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    /* position: absolute;
+    left: 170px;
+    top: 30px; */
+}
+.logo2{
+    width: 180px;
+    height: 200px;
+    border-radius: 50px;
+    border-color: green;
+    border-width: 20px;
+    background-color: green;
+    align-items: center;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    right: 0;
+    bottom: 200px;
+}
+.appoint{
+    background-color: rgba(15, 183, 54, 0.804);
+    border-radius: 0% 51% 49% 70%/0% 0% 0% 60%;
+    margin-right: 10px;
+    color: white;
+    height: 30px;
+}
+.left{
+    background-color: rgb(95, 201, 95);
+    width: 100px;
+    height: 200px;
+     border-radius: 0% 51% 49% 70%/0% 80% 80% 0%;
+}
+.content{
+    height: 200px;
+      width: 210px;
+    border-radius: 60px/40px;
+    border-color: green;
+    border-width: 200px;
+    background-color: green;
+    position: relative;
+   
+}
+.health{
+    position: absolute;
+    left: 200px;
+    bottom: 40px;
+}
+.appoint2{
+    background-color: rgba(5, 7, 5, 0.804);
+    border-radius: 0% 51% 49% 70%/0% 0% 0% 60%;
+    margin-right: 10px;
+    color: white;
+    height: 30px;
+}
+.head3{
+    display: flex;
+    justify-content: space-between;
+}
+.head4{
+    background-color: rgb(237, 246, 237);
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    border-radius: 20% 51% 20% 70%/20% 20% 0% 00%;
+    position: relative;
+    align-items: center;
+    
+    
+}
+.card-content{
+    display: flex;
+    justify-content: space-between;
+}
+.card-content2{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    background-color: green;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    /* background-color: green; */
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+.logo6{
+    width: 1000px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    /* position: absolute;
+    left: 200px; */
+    /* position: absolute;
+    left: 170px;
+    top: 30px; */
+}
+.mid{
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    text-align: center;
+   
+}
+.logo7{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    /* position: absolute;
+    left: 200px; */
+    /* position: absolute;
+    left: 170px;
+    top: 30px; */
+}
+
+.head5{
+    background-color: green;
+    align-items: center;
+    margin: 10px;
+    width: 50%;
+    height: 200px;
+    border-radius: 0% 51% 49% 70%/70% 0% 0% 10%;
+    position: absolute;
+    justify-content: center
+    ;
+    text-align: center;
+    left: 300px;
+    
+}
+.two{
+    text-align: center;
+    position: relative;
+}
+.logo8{
+    position: absolute;
+    top: 20px;
+}
+.footer{
+    background-color: rgb(237, 246, 237);
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    border-radius: 20% 51% 20% 70%/20% 20% 0% 00%;
+    position: relative;
+    align-items: center;
+    
+    
+}
